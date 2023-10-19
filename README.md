@@ -1,4 +1,4 @@
-**Technical Documentation: Keyword Extractor Streamlit App**
+# Technical Documentation: Keyword Extractor Streamlit App
 
 ### 1. Introduction
 
